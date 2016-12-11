@@ -1,6 +1,7 @@
 # NoFuserEx
 NoFuserEx is an open-source deobfuscator for ConfuserEx.
 License: MIT.
+Prebuild Binaries
 
 ## Usage
 Just drag and drop any file(s) onto NoFuserEx.exe.
